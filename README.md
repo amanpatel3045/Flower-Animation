@@ -4,4 +4,3 @@ Rotating single flower
 
 
 
-![](https://eh9h1k.csb.app/)
